@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ContaTerminal {
+public class AccountTerminal {
 
     public static void main(String[] args) {
        
